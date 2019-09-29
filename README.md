@@ -1,5 +1,5 @@
 # HelloSnips
-HelloSnips is a simple voice assitant for first resonders working on an offline model, where they have no Internet/data connections to the cloud.
+HelloSnips is a simple voice assitant based on Snips platform for first resonders working on an offline model, where they have no Internet/data connections to the cloud.
 
 This is still the first version (V0.1). Therefore, it only has a few features as the following:
 
@@ -18,3 +18,6 @@ You can send an email containing current time and your location to our team (Men
 ## Show your location
 You can get your GPS location by saying something like "tell me my GPS location" or "report my location", etc.
 
+
+## Acknowledgement
+We acknowledge the support of Snips platform (https://snips.ai/).
